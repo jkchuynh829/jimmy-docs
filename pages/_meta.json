@@ -1,15 +1,17 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+    "index": "Introduction",
+    "features": "Features",
+    "versions": "Version History",
+    "integration": "Integration",
+    "extras": "Extras",
+    "about": {
+        "title": "About",
+        "type": "page"
+    },
+    "contact": {
+        "title": "Contact ↗",
+        "type": "page",
+        "href": "https://twitter.com/jkchuynh829",
+        "newWindow": true
+    }
 }
