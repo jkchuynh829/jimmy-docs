@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
             titleTemplate: '%s',
         }
     },
-    logo: <span>Jimmy Huynh: </span>,
+    logo: <span>Jimmy Huynh</span>,
     project: {
         link: 'https://github.com/jkchuynh829',
     },
