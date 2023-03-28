@@ -7,13 +7,13 @@ const config: DocsThemeConfig = {
             titleTemplate: '%s',
         }
     },
-    logo: <span>Jimmy Huynh: Software Engineer</span>,
+    logo: <span>Jimmy Huynh: </span>,
     project: {
         link: 'https://github.com/jkchuynh829',
     },
     docsRepositoryBase: 'https://github.com/jkchuynh829/jimmy-docs',
     footer: {
-        text: 'jimmyhuynh.dev 2023',
+        text: 'jimmyhuynh.dev',
     },
 }
 

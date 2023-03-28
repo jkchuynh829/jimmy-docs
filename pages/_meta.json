@@ -1,13 +1,9 @@
 {
     "index": "Introduction",
-    "features": "Features",
-    "versions": "Version History",
-    "integration": "Integration",
-    "extras": "Extras",
-    "about": {
-        "title": "About",
-        "type": "page"
-    },
+    "working-style": "My Working Style",
+    "skills": "Technical Skills",
+    "experience": "Work Experience",
+    "education": "Education and Training",
     "contact": {
         "title": "Contact ↗",
         "type": "page",
