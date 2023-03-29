@@ -4,5 +4,9 @@
     "skills": "Technical Skills",
     "experience": "Work Experience",
     "education": "Education and Training",
-    "contact": "Message Me"
+    "contact": "Contact and Resume",
+    "about": {
+        "title": "Contact ↗",
+        "type": "page"
+    }
 }
