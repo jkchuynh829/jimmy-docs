@@ -4,10 +4,8 @@
     "skills": "Technical Skills",
     "experience": "Work Experience",
     "education": "Education and Training",
-    "contact": {
+    "about": {
         "title": "Contact ↗",
-        "type": "page",
-        "href": "https://twitter.com/jkchuynh829",
-        "newWindow": true
+        "type": "page"
     }
 }
